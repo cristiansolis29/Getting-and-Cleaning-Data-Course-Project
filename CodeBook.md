@@ -57,8 +57,13 @@ http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartpho
 ##Observations
 
 Requires reshape2 and data.table packages.
+
 Loading the test and the train data.
+
 Loading features and activity labels.
+
 Extracting both the mean and std column names and data.
+
 Processing data.
+
 Merging data set.
